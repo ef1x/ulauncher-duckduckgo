@@ -1,6 +1,5 @@
 {
-  "manifest_version": "2",
-  "api_version": "1",
+  "required_api_version": "^2.0.0",
   "name": "Duckduckgo extension",
   "description": "To use duckduckgo search engine",
   "developer_name": "Akash Reddy",
@@ -10,8 +9,8 @@
   },
   "preferences": [
     {
-      "id": "keyword",
-      "type": "keyword",
+      "id": "demo_kw",
+      "type": "search",
       "name": "duck",
       "description": "duckduckgo extension",
       "default_value": "ddg"
