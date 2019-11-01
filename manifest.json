@@ -9,7 +9,7 @@
   },
   "preferences": [
     {
-      "id": "demo_kw",
+      "id": "ddg_search",
       "type": "search",
       "name": "duck",
       "description": "duckduckgo extension",
