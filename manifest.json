@@ -9,8 +9,8 @@
   },
   "preferences": [
     {
-      "id": "ddg_search",
-      "type": "search",
+      "id": "keyword",
+      "type": "keyword",
       "name": "duck",
       "description": "duckduckgo extension",
       "default_value": "ddg"
